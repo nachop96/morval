@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/morval/static/css/main.a617e044.chunk.css",
+    "main.js": "/morval/static/js/main.7561b4c5.chunk.js",
+    "main.js.map": "/morval/static/js/main.7561b4c5.chunk.js.map",
+    "runtime-main.js": "/morval/static/js/runtime-main.bb3843a1.js",
+    "runtime-main.js.map": "/morval/static/js/runtime-main.bb3843a1.js.map",
+    "static/js/2.1908780c.chunk.js": "/morval/static/js/2.1908780c.chunk.js",
+    "static/js/2.1908780c.chunk.js.map": "/morval/static/js/2.1908780c.chunk.js.map",
+    "static/js/3.9c3e421f.chunk.js": "/morval/static/js/3.9c3e421f.chunk.js",
+    "static/js/3.9c3e421f.chunk.js.map": "/morval/static/js/3.9c3e421f.chunk.js.map",
+    "index.html": "/morval/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/morval/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1908780c.chunk.js.LICENSE.txt": "/morval/static/js/2.1908780c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/morval/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3843a1.js",
+    "static/js/2.1908780c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7561b4c5.chunk.js"
+  ]
+}
