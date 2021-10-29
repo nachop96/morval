@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+       <img src='https://i.blogs.es/560885/game-over/450_1000.jpg'  alt="logo" />
+       {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Pagina en proceso ndeah
+          Perdiste :(
         </p>
         <a
           className="App-link"
